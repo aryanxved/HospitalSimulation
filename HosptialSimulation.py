@@ -1,9 +1,3 @@
-# -----------------------------------------------
-# MSCI 333 - Simulations Project (Part 2)
-#
-# Created by: Aryan Ved and Yash Pokra
-# -----------------------------------------------
-
 import numpy as np
 import random as rn
 
